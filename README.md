@@ -1,1 +1,2 @@
-Find-a-Read is your personalized book discovery companion. Whether you're craving a thrilling mystery, heartwarming romance, or thought-provoking nonfiction, it curates smart, tailored recommendations based on your taste, mood, and reading history. Never run out of great reads again—just tap, explore, and dive into your next favorite book.
+Find-a-Read helps you discover books you'll love, with smart recommendations based on your taste and mood.
+
